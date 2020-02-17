@@ -1,4 +1,5 @@
 server:
   port: 8071
 
-name: dev4
+wait:
+  person: zhangsan
